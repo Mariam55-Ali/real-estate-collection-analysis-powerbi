@@ -102,7 +102,7 @@ Analysis of collection activity over time.
 
 ### 🏢 Projects
 
-Project-level overview and performance analysis.
+All Projects.
 
 ![Projects](Screenshots/Projects.png)
 
